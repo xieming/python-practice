@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96420" started-at="2014-07-29T03:19:34Z" finished-at="2014-07-29T03:21:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96420" started-at="2014-07-29T03:19:34Z" finished-at="2014-07-29T03:21:11Z">
+      <class name="com.appium.android.Yibantest.App">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.appium.android.Yibantest.App@285fdb25]" name="setUp" is-config="true" duration-ms="10063" started-at="2014-07-29T11:19:34Z" finished-at="2014-07-29T11:19:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addContact()[pri:0, instance:com.appium.android.Yibantest.App@285fdb25]" name="addContact" duration-ms="85115" started-at="2014-07-29T11:19:44Z" finished-at="2014-07-29T11:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.appium.android.Yibantest.App@285fdb25]" name="tearDown" is-config="true" duration-ms="1232" started-at="2014-07-29T11:21:10Z" finished-at="2014-07-29T11:21:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.appium.android.Yibantest.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
